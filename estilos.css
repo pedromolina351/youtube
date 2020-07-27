@@ -1,0 +1,46 @@
+#barra-superior{
+    position: fixed!important;
+    z-index: 10000;
+    min-width: 100%;
+}
+.bg-light {
+    background-color: #ffffff!important;
+}
+#logo{
+    width: 80px;
+    margin-left: 1.3rem;
+    margin-bottom: 0.3rem;
+}
+
+#menu{
+    background-color: white;
+    border: none;
+}
+#src-buscar{
+    margin-left: 5rem!important;
+    margin-right: 0em!important;
+    border-radius: 0em!important;
+    height: 2rem;
+    width: 25em;
+    font-family: 'Roboto','Noto',sans-serif;
+    font-size: 16px;
+}
+#btn-buscar{
+    width: 4rem;
+    height: 2rem;
+    border-radius: 0;
+    background-color: #F9F9F9;
+}
+#barra-lateral{
+    position: fixed;
+    background-color:white;
+    width: 240px;
+    min-height: 100%;
+}
+#contenido{
+    margin-top: 60px;
+    margin-left: 240px;
+    background-color: #979797;
+}
+
+
